@@ -1,2 +1,3 @@
 # Hello World! and My name is 22mayank.
-#### This is just some text to test the working.
+
+#### And this is a sample repo for code school tutorials.
